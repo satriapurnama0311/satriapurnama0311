@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Satria+Purnama...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 Perkenalkan nama saya [**Satria Purnama Putra**](https://www.instagram.com/satria.prnama/).
 
@@ -17,6 +21,11 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/satriapurnama0311/count.svg" />
+
 
 <!--
 **satriapurnama0311/satriapurnama0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

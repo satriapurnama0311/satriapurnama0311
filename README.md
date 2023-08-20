@@ -39,10 +39,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <hr />
 
 ### Reach me on
-- <a href="https://linkedin.com/in/satriapurnama0311/">LinkedIn</a>
+- <a href="https://linkedin.com/in/satriapurnama11/">LinkedIn</a>
 - <a href="https://www.youtube.com/channel/UCHklIac_U7Fzpow6Fmsx0ig">Youtube</a>
 - <a href="https://www.instagram.com/satria.prnama/">Instagram</a>
-- <a href="https://twitter/SatriaPurnamaP2">Twitter</a>
+- <a href="https://twitter.com/SatriaPurnamaP2">Twitter</a>
 <!--### Visitor count
 <img src="https://profile-counter.glitch.me/satriapurnama0311/count.svg" />-->
 

@@ -31,7 +31,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### Github Statistic
 <p align="center">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/satriapurnama0311">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satriapurnama0311&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satriapurnama0311&layout=compact&langs_count=8&theme=algolia"/>
 </a>

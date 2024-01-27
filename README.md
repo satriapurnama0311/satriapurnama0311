@@ -6,15 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=satriapurnama0311&label=Profile%20views&color=0e75b6&style=flat" alt="abdanulikhlas" /> </p>
 
-Perkenalkan nama saya [**Satria Purnama Putra**](https://www.instagram.com/satria.prnama/).
+🎓 I am a sixth-semester student pursuing a **Management** degree at the [Universitas Islam Nusantara](https://uninus.ac.id/).
 
-Saya seorang **Mahasiswa** di [Uninus](https://uninus.ac.id/).
+🚀 I achieved [**Distinction Graduate**](https://drive.google.com/file/d/14T5Xn3iJm1XGTCDFSzmGpjvYMWR3XKyi/view?usp=drive_link) status in the **Bangkit 2023 Batch 2** program organized by the Kampus Merdeka of the Ministry of Education and Culture of the Republic of Indonesia. [Graduation Letter here](https://drive.google.com/file/d/1OoMGNdpvTNcKrE_1mw_301hPGg21BkPo/view?usp=drive_link).
 
-Saya merupakan Cohort-Cloud Computing Bankit 2023 Batch 2.
+📝 I also hold a [Microsoft Office Specialist](http://www.certiport.com/Portal/Pages/ViewTranscript.aspx?uid=jNfDXCS+AsLes4+VEMYooA==&vid=9TDqG2bkI+aWIt3Ej2YUAw==&aid=DHZSQUQRA8EafJuRnozcOA==&defaultlang=ENU) certification since 2019.
 
-Saya juga memiliki gelar [Microsoft Office Specialist](http://www.certiport.com/Portal/Pages/ViewTranscript.aspx?uid=jNfDXCS+AsLes4+VEMYooA==&vid=9TDqG2bkI+aWIt3Ej2YUAw==&aid=DHZSQUQRA8EafJuRnozcOA==&defaultlang=ENU) sejak 2019.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/satriapurnama11/)ku ya.
+✨ If you are interested in getting to know me, please feel free to follow my [LinkedIn](https://linkedin.com/in/satriapurnama11/) account.
 ### Tech Stack
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
